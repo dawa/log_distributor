@@ -1,1 +1,0 @@
-/Users/dwamola/Projects/AGENTS.md
