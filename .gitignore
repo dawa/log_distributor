@@ -1,0 +1,8 @@
+.env
+node_modules/
+__pycache__/
+.venv/
+.DS_Store
+test.*
+infra/terraform/.terraform/
+infra/terraform/.terraform.lock.hcl
